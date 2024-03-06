@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Thamine-sumaya
 - 👀 I'm new to the world of programming
 - 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me thaminesumaya@gmail.com
 - 😄 Pronouns: she/her
 
