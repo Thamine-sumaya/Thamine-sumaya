@@ -3,11 +3,9 @@
 <span style="color:#FFE6E6">
 Tenho 18 anos, meus principais interesses são em desenvolver habilidades na área tech e contribuir para a comunidade.
 </span>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="C:\Users\Usuario\Downloads\foto-cv-git.png">
- <source media="(prefers-color-scheme: light)" srcset="">
- <img alt="imagem ilustrativa de um notebook aberto e alguns elementos tecnológicos em torno dele" src="prefers-color-scheme">
-</picture>
+
+![Ilustração de um computador envolto de elementos tecnológicos abstratos 2D e 3D todos em tons de rosa e roxo](C:\Users\Usuario\Downloads\foto-cv-git.png)
+
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thamine-sumaya&layout=compact&bg_color=191825&border_color=865DFF&title_color=FFA3FD&text_color=FFE6E6)
