@@ -2,7 +2,7 @@
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thamine-sumaya/Thamine-sumaya/blob/main/cv-image.png?raw=true">
- <source media="https://private-user-images.githubusercontent.com/160533319/313510891-d2b0ecdd-db13-4691-8854-259b5c11b289.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTExNDU5NDYsIm5iZiI6MTcxMTE0NTY0NiwicGF0aCI6Ii8xNjA1MzMzMTkvMzEzNTEwODkxLWQyYjBlY2RkLWRiMTMtNDY5MS04ODU0LTI1OWI1YzExYjI4OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyMlQyMjE0MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZmU5ZTU3NTUxNzZlMjlkOGNjZGViN2UxMWQwYTI3NTJhMTNkNDNhYmM0ZjNiMzZiZTBkN2RhZjkzMmY0NTUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.pZ4HIjIJyHjERgC3g5q_V1_nYRZd39s6c5Fg1Isn7Pc">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Thamine-sumaya/Thamine-sumaya/blob/main/cv-photo-light.png?raw=true">
  <img alt="apresentação" src="prefers-color-scheme">
 </picture>
 
