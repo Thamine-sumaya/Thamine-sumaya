@@ -6,8 +6,7 @@
  <img alt="apresentação" src="prefers-color-scheme">
 </picture>
 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thamine-sumaya&layout=compact&bg_color=191825&border_color=865DFF&title_color=FFA3FD&text_color=FFE6E6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamine-sumaya&layout=compact&bg_color=191825&border_color=865DFF&title_color=FFA3FD&text_color=FFE6E6)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Thamine-sumaya&theme=bear&background=191825&border=865DFF&dates=FFE6E6)](https://git.io/streak-stats)
 
