@@ -6,19 +6,25 @@
  <img alt="apresentação" src="prefers-color-scheme">
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamine-sumaya&layout=compact&bg_color=191825&border_color=865DFF&title_color=FFA3FD&text_color=FFE6E6)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamine-sumaya&layout=compact&bg_color=191825&border_color=865DFF&title_color=FFA3FD&text_color=FFE6E6)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Thamine-sumaya&theme=bear&background=191825&border=865DFF&dates=FFE6E6)](https://git.io/streak-stats)
 
-## Certificações:
 
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+
 <a href="https://www.dio.me/users/thaminesumaya">
-   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/42a9ddef-608a-4f6f-9085-349726173c3d)](https://www.dio.me/users/thaminesumaya" alt="anotações" width="100" >
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/42a9ddef-608a-4f6f-9085-349726173c3d" alt="anotações" width="200" >
+</a>
+
+## Cursos e Certificações:
+
+<a href="https://www.dio.me/users/thaminesumaya">
+   <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" alt="anotações" width="100" >
 </a>
 
 
+
+<!---## Bootcamps:--->
 
 # Habilidades em:
 ##  Editor de código-fonte
