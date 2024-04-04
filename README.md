@@ -1,8 +1,8 @@
-# Olá, me chamo Thamine
+# Olá, me chamo Thamine Sumaya
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thamine-sumaya/Thamine-sumaya/blob/main/cv-image.png?raw=true">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Thamine-sumaya/Thamine-sumaya/blob/main/cv-photo-light.png?raw=true">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thamine-sumaya/Thamine-sumaya/blob/main/srce/1.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Thamine-sumaya/Thamine-sumaya/blob/main/srce/2.png?raw=true">
  <img alt="apresentação" src="prefers-color-scheme">
 </picture>
 
