@@ -1,4 +1,4 @@
-# Olá me chamo Thamine
+# Olá, me chamo Thamine
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thamine-sumaya/Thamine-sumaya/blob/main/cv-image.png?raw=true">
