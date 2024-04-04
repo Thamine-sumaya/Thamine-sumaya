@@ -10,11 +10,15 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Thamine-sumaya&theme=bear&background=191825&border=865DFF&dates=FFE6E6)](https://git.io/streak-stats)
 
-<!---## Certificações:
+## Certificações:
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
---->
+<a href="https://www.dio.me/users/thaminesumaya">
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/42a9ddef-608a-4f6f-9085-349726173c3d)](https://www.dio.me/users/thaminesumaya" alt="anotações" width="100" >
+</a>
+
+
 
 # Habilidades em:
 ##  Editor de código-fonte
