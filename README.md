@@ -10,11 +10,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Thamine-sumaya&theme=bear&background=191825&border=865DFF&dates=FFE6E6)](https://git.io/streak-stats)
 
-## Certificações:
+<!---## Certificações:
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
-
+--->
 ## Principal Editor de código-fonte
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
