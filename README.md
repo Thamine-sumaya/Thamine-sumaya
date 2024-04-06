@@ -24,7 +24,11 @@
 </a>
 
 
-<!---  ![Bootcamps](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/50ae5837-f4f2-496a-85c3-f59ed10e583b) --->
+<!-- ![Bootcamps](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/50ae5837-f4f2-496a-85c3-f59ed10e583b) 
+<a href="https://www.dio.me/users/thaminesumaya">
+   <img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" width="150" >
+</a>
+--->
 
 
 ![Habilidades](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/64d7ecc4-a2f4-4468-bc53-31a71c4967f8)
