@@ -23,7 +23,8 @@
 ![PHP](https://img.shields.io/badge/php-000000.svg?style=for-the-badge&logo=php&logoColor=D271FF)
 ![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=AD00FF)
 ![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=D271FF)
-![PLSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=oracle&logoColor=AD00FF)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=AD00FF)
+
 <!--
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTMX](https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white)
