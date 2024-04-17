@@ -16,7 +16,9 @@
 
 ![C#](https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=csharp&logoColor=D271FF)
 ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=AD00FF)
-![PLSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=oracle&logoColor=AD00FF)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=oracle&logoColor=AD00FF)
+![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=oracle&logoColor=AD00FF)
+
 
 ![Busco adquirir proficiência em:](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/98456686-1677-4d49-b6fe-4a5ca42348ee)
 
