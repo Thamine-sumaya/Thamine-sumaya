@@ -17,10 +17,16 @@
 ![Cursos e certificações ](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/3b49ae65-8f69-4c5d-b807-56bc38dcff05)
 [![dio.me section](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/1c0e0b6c-8e56-42cd-95c1-45d77a302364)](https://www.dio.me/users/thaminesumaya)
 
-
+<a href="https://www.dio.me/users/thaminesumaya">
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/a3e03359-fdff-4ab0-867b-3ced83312de1" alt="sql" width="100" >
+</a>
 
 <a href="https://www.dio.me/users/thaminesumaya">
-   <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" alt="anotações" width="100" >
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/22205066-f9ac-485f-a434-b3a938bb1e62" alt="primeiro desafio de código" width="100" >
+</a>
+
+<a href="https://www.dio.me/users/thaminesumaya">
+   <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" alt="github" width="100" >
 </a>
 
 
