@@ -1,4 +1,5 @@
-# Olá, me chamo Thamine Sumaya
+#
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Electrolize&size=30&pause=1000&color=BE25F7&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Thamine+)](https://git.io/typing-svg)
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thamine-sumaya/Thamine-sumaya/blob/main/srce/1.png?raw=true">
