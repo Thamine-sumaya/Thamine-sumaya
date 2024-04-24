@@ -31,7 +31,7 @@
 </a>
 
 
-<!-- ![Bootcamps](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/50ae5837-f4f2-496a-85c3-f59ed10e583b) 
+<!-- ![Bootcamps e Formações](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/b2317bf2-047c-4ef6-afbf-52277d4a53aa)
 <a href="https://www.dio.me/users/thaminesumaya">
    <img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" width="150" >
 </a>
