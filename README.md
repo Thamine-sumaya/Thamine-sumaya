@@ -18,16 +18,16 @@
 ![Cursos e certificações ](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/3b49ae65-8f69-4c5d-b807-56bc38dcff05)
 [![dio.me section](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/1c0e0b6c-8e56-42cd-95c1-45d77a302364)](https://www.dio.me/users/thaminesumaya)
 
-<a href="https://www.dio.me/users/thaminesumaya">
-   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/a3e03359-fdff-4ab0-867b-3ced83312de1" alt="sql" width="100" >
+<a href="https://www.dio.me/certificate/LNTCC1QK/share">
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/d9d4552d-dcbb-49ca-bde6-696189563c8a" alt="Projeto 1" width="75" >
 </a>
 
-<a href="https://www.dio.me/users/thaminesumaya">
-   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/22205066-f9ac-485f-a434-b3a938bb1e62" alt="primeiro desafio de código" width="100" >
+<a href="https://www.dio.me/certificate/FJSXTBGI/share">
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/b6be2c8c-3fb4-43c9-8198-d434b3684431" alt="Projeto 1" width="75" >
 </a>
 
-<a href="https://www.dio.me/users/thaminesumaya">
-   <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" alt="github" width="100" >
+<a href="https://www.dio.me/certificate/3ZOFSM7A/share">
+   <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" alt="github" width="75" >
 </a>
 
 
