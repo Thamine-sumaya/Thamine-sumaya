@@ -53,3 +53,6 @@
 ## Freelance Platforms
 
 [![Upwork](https://img.shields.io/badge/UpWork-000000?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~016a2f4c92c70c9cc2?mp_source=share)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thamine-sumaya&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
