@@ -18,12 +18,18 @@
 ![Cursos e certificações ](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/3b49ae65-8f69-4c5d-b807-56bc38dcff05)
 [![dio.me section](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/1c0e0b6c-8e56-42cd-95c1-45d77a302364)](https://www.dio.me/users/thaminesumaya)
 
+<a href="https://www.dio.me/certificate/TAT2O420/share">
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/44a888f6-aaf3-4718-bb5f-ac506aff6ab0" alt="Projeto 1" width="75" >
+</a>
 <a href="https://www.dio.me/certificate/LNTCC1QK/share">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/d9d4552d-dcbb-49ca-bde6-696189563c8a" alt="Projeto 1" width="75" >
 </a>
 
 <a href="https://www.dio.me/certificate/FJSXTBGI/share">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics/assets/160533319/b6be2c8c-3fb4-43c9-8198-d434b3684431" alt="Projeto 1" width="75" >
+</a>
+<a href="https://www.dio.me/certificate/NUIIDT4Z/share">
+   <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/assets/160533319/841540d2-7ec3-4457-bc22-0bb44f7d92d4" alt="Projeto 1" width="75" >
 </a>
 
 <a href="https://www.dio.me/certificate/3ZOFSM7A/share">
