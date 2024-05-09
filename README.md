@@ -59,7 +59,42 @@
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/233a7caf-b7b7-473a-b1df-95c73fc9d5ed" alt="CSS" width="40" >
 </a>
- 
+<a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/58d02d4c-7a72-49a0-94a2-002471e1ad75" alt="Java Script" width="40" >
+</a>
+<a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/4ed867a0-813b-4021-b71e-4d64afeac40a" alt="C#" width="40" >
+</a>
+<a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/f8081f2a-dafb-4007-aa77-eccbf4f13145" alt="VSCode" width="40" >
+</a>
+<a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/16cd7e96-5ae3-4371-9a3d-a32987ae6530" alt="Jupyter" width="40" >
+</a>
+<a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/63288c34-fc89-43ec-81cc-8299365a16c1" alt="Power BI" width="40" >
+</a>
+ <a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/e93a20b1-dc77-42e8-8b3d-4402b0d69598" alt="Excel" width="40" >
+</a>
+ <a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/9f0fc3a0-0800-4bc7-ba08-a787aaa6e83c" alt="Photoshop" width="40" >
+</a>
+<a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/10d6a774-3f2d-49cf-9bb8-2145f22c92a9" alt="Figma" width="40" >
+</a>
+ <a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/6b13a77d-888e-44fa-8381-50536a2f5700" alt="Pandas" width="40" >
+</a>
+<a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/93af5699-242c-4868-ba65-56fed4c980c1" alt="Numpy" width="40" >
+</a>
+ <a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/3bb02659-aff0-4702-a4f7-ffae1d03c1ec" alt="Mongo DB" width="40" >
+</a>
+<a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/0936da36-dbc6-4dfb-a677-e3d929635ece" alt="MySQL" width="40" >
+</a>
 </div>
 
 [![image](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/66039d6e-6acb-45ad-a5f7-9e90ca6a3fbb)](https://github.com/Thamine-sumaya/Thamine-sumaya/blob/main/srce/principais-habilidades.md)
