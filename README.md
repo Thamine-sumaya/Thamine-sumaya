@@ -51,13 +51,13 @@
 ![Habilidade](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/bbe2c885-1e8d-4d6f-869d-78acb6c6202d)
 <div align="center">
  <a>
-   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/0e7e782e-091b-4181-a6de-cce0406dfb80" alt="Python" width="55" >
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/0e7e782e-091b-4181-a6de-cce0406dfb80" alt="Python" width="40" >
 </a>
 <a>
-   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/dbe754e8-563b-45f9-b7c2-a69591ecef3b" alt="HTML" width="55" >
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/dbe754e8-563b-45f9-b7c2-a69591ecef3b" alt="HTML" width="40" >
 </a>
 <a>
-   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/233a7caf-b7b7-473a-b1df-95c73fc9d5ed" alt="CSS" width="55" >
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/233a7caf-b7b7-473a-b1df-95c73fc9d5ed" alt="CSS" width="40" >
 </a>
  
 </div>
