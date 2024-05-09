@@ -15,6 +15,8 @@
 
 
  ![Bootcamps e Formações](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/b2317bf2-047c-4ef6-afbf-52277d4a53aa)
+ [![dio.me section](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/1c0e0b6c-8e56-42cd-95c1-45d77a302364)](https://www.dio.me/users/thaminesumaya)
+
  <div align="center">
 <a href="https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics">
    <img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" width="150" >
@@ -79,16 +81,8 @@
 </div>
 
 
-<p align="center">
-  <a href="https://github.com/Thamine-sumaya?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Repositories%20-6600cc?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thamine-sumaya&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
  [![Bootcamp python data anlytics](https://github-readme-stats.vercel.app/api/pin/?username=Thamine-sumaya&repo=DIO-Bootcamp-Python-Data-Analytics&border_color=865DFF&bg_color=191825&title_color=FFA3FD&text_color=FFE6E6&icon_color=D98C46)](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics) 
   [![DIO-Bootcamp-Python-AI-Backend-Developer](https://github-readme-stats.vercel.app/api/pin/?username=Thamine-sumaya&repo=DIO-Bootcamp-Python-AI-Backend-Developer&border_color=865DFF&bg_color=191825&title_color=FFA3FD&text_color=FFE6E6&icon_color=AD00FF)](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer) 
   [![DIO-Bootcamp-Santander-2024-Backend-com-Java](https://github-readme-stats.vercel.app/api/pin/?username=Thamine-sumaya&repo=DIO-Bootcamp-Santander-2024-Backend-com-Java&border_color=865DFF&bg_color=191825&title_color=FFA3FD&text_color=FFE6E6&icon_color=EA1D25)](https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java) 
-
-
 
