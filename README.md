@@ -76,6 +76,8 @@
 [![Upwork](https://img.shields.io/badge/UpWork-000000?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~016a2f4c92c70c9cc2?mp_source=share)
 </div>
 
+![Divisor](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/c4c1161f-3cb9-49b2-a2dc-231d80543b1e)
+
 <div align="center">
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamine-sumaya&layout=compact&bg_color=191825&border_color=865DFF&title_color=FFA3FD&text_color=FFE6E6)
