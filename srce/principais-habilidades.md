@@ -4,11 +4,11 @@
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/89a37c82-70ec-4e4e-81c6-0478f5254758" alt="Git" width="55" >
 </a>
-
-![Estou aprendendo](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/21e97ba9-c043-42eb-ae89-825f3b7c9d4e)
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/0e7e782e-091b-4181-a6de-cce0406dfb80" alt="Python" width="55" >
 </a>
+
+![Estou aprendendo](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/21e97ba9-c043-42eb-ae89-825f3b7c9d4e)
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/dbe754e8-563b-45f9-b7c2-a69591ecef3b" alt="HTML" width="55" >
 </a>
