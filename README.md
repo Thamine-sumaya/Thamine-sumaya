@@ -53,6 +53,9 @@
  <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/0e7e782e-091b-4181-a6de-cce0406dfb80" alt="Python" width="40" >
 </a>
+ <a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/c6a2bf3e-9ab2-41f3-962d-d811ddab73e7" alt="Git" width="40" >
+</a>
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/dbe754e8-563b-45f9-b7c2-a69591ecef3b" alt="HTML" width="40" >
 </a>
