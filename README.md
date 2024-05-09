@@ -48,7 +48,7 @@
 </a>
 
 
-![Habilidades](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/64d7ecc4-a2f4-4468-bc53-31a71c4967f8)
+![Habilidade](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/bbe2c885-1e8d-4d6f-869d-78acb6c6202d)
 <div align="center">
  <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/0e7e782e-091b-4181-a6de-cce0406dfb80" alt="Python" width="55" >
