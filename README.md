@@ -7,11 +7,7 @@
  <img alt="apresentação" src="prefers-color-scheme">
 </picture>
 
-<div align="center">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamine-sumaya&layout=compact&bg_color=191825&border_color=865DFF&title_color=FFA3FD&text_color=FFE6E6)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Thamine-sumaya&theme=bear&background=191825&border=865DFF&dates=FFE6E6)](https://git.io/streak-stats)
-</div>
+
 
 
  ![Bootcamps e Formações](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/b2317bf2-047c-4ef6-afbf-52277d4a53aa)
@@ -80,6 +76,11 @@
 [![Upwork](https://img.shields.io/badge/UpWork-000000?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~016a2f4c92c70c9cc2?mp_source=share)
 </div>
 
+<div align="center">
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamine-sumaya&layout=compact&bg_color=191825&border_color=865DFF&title_color=FFA3FD&text_color=FFE6E6)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Thamine-sumaya&theme=bear&background=191825&border=865DFF&dates=FFE6E6)](https://git.io/streak-stats)
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thamine-sumaya&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
  [![Bootcamp python data anlytics](https://github-readme-stats.vercel.app/api/pin/?username=Thamine-sumaya&repo=DIO-Bootcamp-Python-Data-Analytics&border_color=865DFF&bg_color=191825&title_color=FFA3FD&text_color=FFE6E6&icon_color=D98C46)](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-Data-Analytics) 
