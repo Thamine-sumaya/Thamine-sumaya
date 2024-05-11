@@ -62,6 +62,7 @@
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/233a7caf-b7b7-473a-b1df-95c73fc9d5ed" alt="CSS" width="40" >
 </a>
+ 
  <!---
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/58d02d4c-7a72-49a0-94a2-002471e1ad75" alt="Java Script" width="40" >
@@ -101,6 +102,7 @@
 </a>
 </div>
 --->
+
 [![image](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/66039d6e-6acb-45ad-a5f7-9e90ca6a3fbb)](https://github.com/Thamine-sumaya/Thamine-sumaya/blob/main/srce/principais-habilidades.md)
 
 
