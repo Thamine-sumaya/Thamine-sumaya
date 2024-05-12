@@ -28,7 +28,7 @@
 
 ![Cursos e certificações ](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/3b49ae65-8f69-4c5d-b807-56bc38dcff05)
 [![dio.me section](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/1c0e0b6c-8e56-42cd-95c1-45d77a302364)](https://www.dio.me/users/thaminesumaya)
-
+ <div align="center">
 <a href="https://www.dio.me/certificate/WMQUPP1Y/share">
    <img src="https://hermes.dio.me/courses/badge/471f31f9-e88d-431a-ad16-f6c6fffac20d.png" alt="Projeto 1" width="75" >
 </a>
@@ -46,7 +46,7 @@
 <a href="https://www.dio.me/certificate/3ZOFSM7A/share">
    <img src="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" alt="github" width="75" >
 </a>
-
+</div>
 
 ![Habilidade](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/bbe2c885-1e8d-4d6f-869d-78acb6c6202d)
 <div align="center">
