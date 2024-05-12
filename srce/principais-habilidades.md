@@ -7,14 +7,13 @@
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/0e7e782e-091b-4181-a6de-cce0406dfb80" alt="Python" width="55" >
 </a>
-
-![Estou aprendendo](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/21e97ba9-c043-42eb-ae89-825f3b7c9d4e)
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/dbe754e8-563b-45f9-b7c2-a69591ecef3b" alt="HTML" width="55" >
 </a>
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/233a7caf-b7b7-473a-b1df-95c73fc9d5ed" alt="CSS" width="55" >
 </a>
+![Estou aprendendo](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/21e97ba9-c043-42eb-ae89-825f3b7c9d4e)
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/b3141115-ee08-4546-a083-cc7c5c12be52" alt="PHP" width="55" >
 </a>
