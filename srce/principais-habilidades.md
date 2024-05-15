@@ -1,4 +1,5 @@
-![image](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/15306570-8d72-42f2-8373-f3fb07f77a1c)
+Em cosntrução...
+<!---![image](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/15306570-8d72-42f2-8373-f3fb07f77a1c)
 
 ![Linguagens](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/0988bda6-ace6-49ab-9fe9-89579317632b)
 <a>
