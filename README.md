@@ -1,6 +1,6 @@
 ![header](https://github.com/Thamine-sumaya/teste-novo-readme-perfil/assets/160533319/16796595-2c0b-4627-917e-aa3d94b271a2)
 ![divisor](https://github.com/Thamine-sumaya/teste-novo-readme-perfil/assets/160533319/1e239994-6099-4533-8f88-2f40b7709bee)
-<a href="https://github.com/Thamine-sumaya/Projeto-Sustentar">
+<a href="https://github.com/Thamine-sumaya/Alura-Projeto-Sustentar">
    <img src="https://github.com/Thamine-sumaya/teste-novo-readme-perfil/assets/160533319/25e046bb-19ca-4350-9feb-c5008fa48585" width="300" >
 </a>
 <a href="https://github.com/Thamine-sumaya/Thamine-sumaya/blob/main/srce/principais-habilidades.md">
