@@ -1,7 +1,4 @@
-Em construção...
-<!---![image](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/15306570-8d72-42f2-8373-f3fb07f77a1c)
-
-![Linguagens](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/0988bda6-ace6-49ab-9fe9-89579317632b)
+![Linguagens](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/c6824f37-1a94-4134-9d50-79d2fd823e46)
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/89a37c82-70ec-4e4e-81c6-0478f5254758" alt="Git" width="55" >
 </a>
@@ -32,7 +29,7 @@ Em construção...
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/4ed867a0-813b-4021-b71e-4d64afeac40a" alt="C#" width="55" >
 </a>
 
-![Ferramentas](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/8145acde-25d3-4df7-b345-0c619aa484f3)
+![ferramentas](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/b6ccad85-87c6-45a1-b8ae-ab65dcc68053)
 ![Editor de Código](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/f57e5fae-623e-49e0-8a72-8c8233a2db83)
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/f8081f2a-dafb-4007-aa77-eccbf4f13145" alt="VSCode" width="55" >
@@ -62,7 +59,7 @@ Em construção...
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/b55202ec-eb1d-42d6-a176-b5763953f788" alt="Canva" width="55" >
 </a>
 
-![Bibliotecas e Frameworks](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/a3e145de-32a4-4a0c-b592-d9bb221f7c7f)
+![Bibliotecas e frameworks](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/6c7d69da-91c9-4789-8e6e-21f765d5da51)
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/d861c274-798a-4210-91cb-2821f0b9275a" alt="Pandas" width="55" >
 </a>
@@ -71,7 +68,7 @@ Em construção...
 </a>
 
 
-![Banco de dados](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/1de2721b-0704-4091-ac90-3f8f8a344233)
+![Banco de Dados](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/8fd723c9-c47d-4455-b03f-8292f5f77174)
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/78da9cbc-c423-4da6-83a5-9de62b84336e" alt="Mongo DB" width="55" >
 </a>
